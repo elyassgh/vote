@@ -1,7 +1,4 @@
-Elghazi Ilyass - IRISI 2 (2020/2021)
-
-Module : Programmation concurrentielle
-Prof. : Mr. Rakrak Said
+Elghazi Ilyass - (2020/2021)
 
 # Structure du projet
 
@@ -25,7 +22,7 @@ Devoir
             Voting1.java (main)
             Voting2.java (main)
 	
-# description des fichier :
+# description des fichiers :
 
 le répertoire models : continet les modéles utilisés dans l'application (candidat et électeur)
 
